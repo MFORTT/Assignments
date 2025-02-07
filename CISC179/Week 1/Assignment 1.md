@@ -13,3 +13,4 @@
 
 
 6. Take a screenshot that shows that the Github repository is all set up for this course. 
+![Assignments_CISC179_Week 1_Assignment 1 md at main · MFORTT_Assignments and 12 more pages - Personal - Microsoft​ Edge 2_7_2025 12_22_59 PM](https://github.com/user-attachments/assets/e1d251df-3e2c-42d3-9860-826736dab9fc)
