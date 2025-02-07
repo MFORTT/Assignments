@@ -1,4 +1,4 @@
- Week 1 Discussion Questions
+## Week 1 Discussion Questions
 
 
 a. Based on your reading, which statement surprised you? 
