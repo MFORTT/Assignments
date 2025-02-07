@@ -5,9 +5,12 @@
    
 ![Language Chart](https://github.com/user-attachments/assets/c715e38c-b457-421c-8f13-616393c0ddd6)
 
-3. Discuss the real-world example where Python performance is superior to compiled languages such as C++. To answer this question, you need to do some research. 
+3. Discuss the real-world example where Python performance is superior to compiled languages such as C++. To answer this question, you need to do some research.
 
-4. Take a screenshot that shows that Python3 is installed successfully on your PC. The screenshot should show the installed Python version.
+    Python is a versatile programming language with a wide range of applications, whereas C++ is primarily used for performance-intensive tasks like game development and systems programming. Python is the number one choice for web development, due to simplicity, readability, and ease of maintenance. Unlike C++, Python has fewer restrictions and allows for faster development and deployment.
+Python is used across various industries, including AI technologies, social media platforms, cybersecurity, and cloud computing. Python is flexible and widely used for modern technology. Examples of applications and technology that uses Python is: Instagram, Siri, ChatGPT, Alexa etc.
+
+5. Take a screenshot that shows that Python3 is installed successfully on your PC. The screenshot should show the installed Python version.
    ![Screenshot 2_7_2025 12_15_25 PM](https://github.com/user-attachments/assets/1947179e-7d6b-444d-912b-a27e9846c2e9)
 ![Screenshot 2_7_2025 12_18_50 PM](https://github.com/user-attachments/assets/2ee7cca7-bb1c-4fc4-b1af-c15bd49e5f27)
 
